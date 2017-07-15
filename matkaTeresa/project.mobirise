@@ -610,7 +610,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>formularz z html</p>"
+          "text": "<p>formularz z html</p>",
+          "_customHTML": "   <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1 text-xs-center\">\n                <div class=\"lead\">\n                    <iframe width=\"100%\" height=\"300\" frameborder=\"0\" src=\"http://www.swieteslowa.pl/subscribe.html?service=matkaTeresa\" sandbox=\"allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts\">\n                    </iframe>\n\n\n\n                </div>\n                \n            </div>\n        </div>\n    </div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -643,11 +648,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#28324e"
-            }
-          },
           "_anchor": "features3-e",
           "_params": {
             "paddingTop": "0",
@@ -762,7 +762,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(255, 255, 255);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 0px; padding-bottom: 80px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/foska-600x594.png\" class=\"card-img-top\"></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"27\"><a href=\"http://krakow.oaza.pl/\" target=\"_blank\">Ruch Swiatło-Życie</a></h4>\n                    \n                    \n                    \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 0px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/it-600x300.jpg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"28\"><a href=\"http://www.eclesia.it\" target=\"_blank\"><br></a><br><a href=\"http://www.eclesia.it\" target=\"_blank\">Eclesia.it</a></h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 0px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/diakona-modlitwy-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"29\"><a href=\"https://www.facebook.com/ddmodlitwy/?fref=ts\" target=\"_blank\">Diakonia Modlitwy</a></h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-3\" style=\"padding-top: 0px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/toungtree-600x600.png\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"30\"><a href=\"https://www.youngtree.eu/\" target=\"_blank\">YoungTree.eu</a></h4>\n                        \n                        \n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H4 {\n\tcolor: #28324e;\n}\n\n.card-img-top {\n  width: 300px   \n}",
+          "_customTemplate": true
         },
         {
           "_tags": [
